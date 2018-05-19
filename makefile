@@ -1,2 +1,2 @@
-Chess: Chess.c
-	gcc -g -Wall -o Chess Chess.c
+all: chess
+	gcc -g -Wall -o chess chess.c
